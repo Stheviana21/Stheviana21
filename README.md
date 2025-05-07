@@ -2,10 +2,10 @@
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpkbnBrc2loY3h4NHJ1aDJyeDduMmZ1NGJnNXAwczVtZXVtdnE0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
 
-## Olá! Eu sou a Sthephany Viana 👋
+## Olá! Eu sou  Sthephany Viana 👋
 
 🔭 Em busca de uma oportunidade de **estágio** na área de tecnologia  
-📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
+📚 Estudante de **Análise e Desenvolvimento de Sistemas** 
 ⚡ Apaixonada por **esportes** e pelo universo da **programação**
 
 ---
@@ -15,7 +15,7 @@ Sou dedicada, curiosa e apaixonada por aprender. Estou sempre em busca de novos 
 
 ---
 
-<h3 align="left">🛠 Tecnologias que estou aprendendo </h3>
+<h3 align="left">🛠 Tecnologias que estou aprendendo e utilizo </h3>
 
 ###
 
@@ -53,6 +53,13 @@ Sou dedicada, curiosa e apaixonada por aprender. Estou sempre em busca de novos 
 <a href="https://discord.com/users/sthe.viana021" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </a>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SthephanyViana&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SthephanyViana&theme=dracula" height="150"/>
+</div>
 
 ---
 
