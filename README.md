@@ -57,8 +57,8 @@ Sou dedicada, curiosa e apaixonada por aprender. Estou sempre em busca de novos 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SthephanyViana&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SthephanyViana&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stheviana21&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stheviana21&theme=dracula" height="150"/>
 </div>
 
 ---
