@@ -1,55 +1,51 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpkbnBrc2loY3h4NHJ1aDJyeDduMmZ1NGJnNXAwczVtZXVtdnE0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-</div>
+<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-###
+## Olá! Eu sou a Sthephany Viana 👋
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+🔭 Em busca de uma oportunidade de **estágio** na área de tecnologia  
+📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
+⚡ Apaixonada por **esportes** e pelo universo da **programação**
 
-###
+---
 
-<h1 align="center">Ola! Tudo bem?👋</h1>
+### 🚀 Sobre mim
+Sou dedicada, curiosa e apaixonada por aprender. Estou sempre em busca de novos conhecimentos e desafios que me impulsionem na carreira de desenvolvedora.
 
-###
+---
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+### 🛠 Tecnologias que estou aprendendo
 
-###
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="left">Olá! Eu sou a Sthephany Viana 👋<br><br>🔭 Em busca de uma oportunidade de estágio na área de tecnologia  <br>📚 Estudante de Análise e Desenvolvimento de Sistemas  <br>⚡ Apaixonada por esportes e pelo universo da programação.</p>
+---
 
-###
+### 📫 Como me encontrar
 
-<h3 align="left">🛠 Linguagem e ferramentas</h3>
+<a href="https://www.linkedin.com/in/sthephany-viana/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
 
-###
+<a href="https://www.instagram.com/sthe.viana/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+</a>
+
+<a href="https://discord.com/users/sthe.viana021" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+</a>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SthephanyViana&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SthephanyViana&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥 Minhas estatísticas:</h3>
-
-###
+💡 *"A tecnologia move o mundo, e eu quero fazer parte desse movimento."*
