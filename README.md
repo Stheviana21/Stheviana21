@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<img align="right" height="200" src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpkbnBrc2loY3h4NHJ1aDJyeDduMmZ1NGJnNXAwczVtZXVtdnE0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif/>
 
 ## Olá! Eu sou a Sthephany Viana 👋
 
@@ -36,15 +36,6 @@ Sou dedicada, curiosa e apaixonada por aprender. Estou sempre em busca de novos 
 <a href="https://discord.com/users/sthe.viana021" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </a>
-
----
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SthephanyViana&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SthephanyViana&theme=radical" height="150" alt="GitHub Streak" />
-</div>
 
 ---
 
