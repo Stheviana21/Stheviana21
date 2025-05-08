@@ -5,7 +5,9 @@
 ## Olá! Eu sou  Sthephany Viana 👋
 
 🔭 Em busca de uma oportunidade de **estágio** na área de tecnologia  
+
 📚 Estudante de **Análise e Desenvolvimento de Sistemas** 
+
 ⚡ Apaixonada por **esportes** e pelo universo da **programação**
 
 ---
