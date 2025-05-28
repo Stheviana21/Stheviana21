@@ -6,7 +6,7 @@
 
 🔭 Em busca de uma oportunidade de **estágio** na área de tecnologia  
 
-📚 Estudante de **Análise e Desenvolvimento de Sistemas** 
+📚 Atualmente estou trabalhando no projeto[https://github.com/najuferreira/ProjetoPI2_Angular]
 
 ⚡ Apaixonada por **esportes** e pelo universo da **programação**
 
